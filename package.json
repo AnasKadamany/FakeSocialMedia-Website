@@ -1,0 +1,16 @@
+{
+  "name": "socialmedia-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.2",
+    "git": "^0.1.5"
+  },
+  "description": ""
+}
